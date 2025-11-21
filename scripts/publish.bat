@@ -1,1 +1,1 @@
-apic products:publish --catalog Development --org api-connect-hw --server https://platform-api.us-east-a.apiconnect.automation.ibm.com api_ex1_product_1.0.0.yaml --debug --scope space --space team1
+C:\Users\91954\Desktop\DataPower\APIC\APIC_CLI\apic products:publish --catalog Development --org api-connect-hw --server https://platform-api.us-east-a.apiconnect.automation.ibm.com api_ex1_product_1.0.0.yaml --debug --scope space --space team1
