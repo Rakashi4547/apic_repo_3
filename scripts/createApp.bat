@@ -1,0 +1,1 @@
+C:\Users\91954\Desktop\DataPower\APIC\APIC_CLI\apic apps:create --org api-connect-hw --server https://platform-api.us-east-a.apiconnect.automation.ibm.com --consumer-org Consumer_org1 --catalog Development createApp.yaml --debug
