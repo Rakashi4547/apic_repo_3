@@ -1,1 +1,1 @@
-C:\Users\91954\Desktop\DataPower\APIC\APIC_CLI\apic subscriptions:create --org api-connect-hw --server https://platform-api.us-east-a.apiconnect.automation.ibm.com --consumer-org Consumer_org1 --catalog Development --app DevApp2 scripts\subscription_create.yaml --debug
+C:\Users\91954\Desktop\DataPower\APIC\APIC_CLI\apic subscriptions:create --org api-connect-hw --server https://platform-api.us-east-a.apiconnect.automation.ibm.com --consumer-org prod1_consumer --catalog production --app DevApp2 scripts\subscription_create.yaml --debug
